@@ -1,0 +1,30 @@
+* {
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+
+body {
+    /*To be changed to a 16:9 image*/
+    background-image: url('../images/green.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+}
+.white {
+    color: rgb(0, 0, 0);
+    
+}
+a {
+    color: rgba(29, 17, 207, 0.74);
+    
+}
+ol li {
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    
+}
+.pad {
+    padding-left: 35px;
+}

@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+* {
+    color: rgb(153, 153, 153);
+}
+body {
+    /*To be changed to a 16:9 image*/
+    background-image: url('../images/cheese.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+.didyk {
+    position: relative; top:-18px;
+}
+.emph {
+    color: white;
+    font-weight: 800;
+    font-size: 17px;
+}
+h5 a {
+    color: aqua;
+}

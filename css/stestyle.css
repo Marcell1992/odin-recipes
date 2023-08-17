@@ -1,0 +1,42 @@
+* {
+    color: #ff0000;
+}
+a {
+    background-color: yellow;
+}
+h1 {
+    text-align: center;
+    background-color:yellow;
+    
+}
+.desc {
+    padding-left: 35px;
+    font-size: 20px;
+}
+em {
+    font-size: 40px;
+}
+ol {
+    background-color: yellow;
+    width: 300px;
+}
+li {
+    background-color: yellow;
+    width: 300px;
+}
+h4{
+    background-color: yellow;
+    height: 40px;
+    text-align: center;
+    width: 600px;
+}
+body {
+    /*To be changed to a 16:9 image*/
+    background-image: url(../images/steak.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    }
+.yellow {
+    background-color: yellow;
+}
